@@ -1,0 +1,21 @@
+.slot-box {
+  margin: 15px;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.slot-box .slot {
+  /* background-color: #121212; */
+  color: #121212;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #eee;
+  border-radius: 2px;
+  /* height: 300px; */
+  /* width: 300px; */
+}
+.slot-box .slot h1{
+  text-transform: uppercase;
+}
